@@ -1,0 +1,36 @@
+** Variables
+
+variables are a way to store bits of data to be used in your 
+program. You give your variable a name and then apply a value 
+to that variable.
+
+
+** Strings
+
+a bunch of characters 'strung' together. Can be alphanumeric
+
+
+
+** Functions (arguments, `return`)
+
+a block of code which can be run as many times as you want. 
+This block of code is defined as a function and is contained 
+within curly braces. Variables which are used in this function 
+need to be defined when declaring it (passed in as an arguement 
+within the brackets). If you want to use the results of this 
+function as a variable you need to 'return' the results.
+
+
+** `if` statements
+
+evaulates whether an operation evalues as true or false. 
+Actions can then be taken depending on which response is given.
+
+
+** Boolean values (`true`, `false`)
+
+true or false, yes or no, one or zero.
+
+
+
+
